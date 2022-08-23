@@ -35,31 +35,14 @@ The data is on [UCI Repository](https://archive.ics.uci.edu/ml/datasets/Bike+Sha
 ![bike_ui_flow](https://user-images.githubusercontent.com/85347886/137850655-735137e3-f5b7-420a-ac8d-fe549e051970.png)
 
 
-<h1 align="center">📜 Documents</h1>
-
-📜 [High Level Design](https://drive.google.com/file/d/1FB4lvF8xGEZ2DvMSg55YLpQLGQkC9Lri/view?usp=sharing)
-
-📜 [Low Level Design](https://drive.google.com/file/d/1QyBalQY-14rOzXWH7iMko-ZpTwYuep2W/view?usp=sharing)
-
-📜[Architecture Design](https://drive.google.com/file/d/1eByxni4vMS-nh1Owb7PWKlnGW0kxnZpv/view?usp=sharing)
-
-📜[Wireframe Design](https://drive.google.com/file/d/1OAPWux5ihgqhrjbROp6ymFKVVUl582uI/view?usp=sharing)
-
-📜[Detailed Project Report](https://drive.google.com/file/d/12r_6koA0-1Xfke-RwkgJPK6_stQangzJ/view?usp=sharing)
-
-🛠[Find All the File](https://drive.google.com/drive/folders/1uWWIwgVvJUX-JFKCbMX8fqrPc-Z0rfnW?usp=sharing)
-
-🎞 [Video Explanation](https://youtu.be/tloXg5kwNKI)
-
-🎈 [Linkedin Post](https://www.linkedin.com/posts/subhabrata-nath-181375115_ineuron-machinelearning-python-activity-6830560035966480384-ZhJH)
 
 
 
 <h1 align="center">⛹️‍♂️ Contributor</h1>
 
-[Avinash Sindwani](https://www.linkedin.com/in/avinash-sindwani-07291325/)
+[Anand Gend](https://www.linkedin.com/feed/)
 
-[Subhabrata Nath](https://www.linkedin.com/in/subhabrata-nath-181375115/)
+[Hitesh Verma]
 
 
 
